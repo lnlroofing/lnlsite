@@ -1,8 +1,8 @@
 ---
-title: "Project Title"
-date: 2020-05-12T12:14:34+06:00
+title: "100 Clarkson Denver"
+date: 2017-03-01T12:14:34+06:00
 image: "images/portfolio/item2.jpg"
-categories: ["design","development"]
+categories: ["roofing"]
 description: "This is meta description."
 draft: false
 project_info:

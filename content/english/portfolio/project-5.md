@@ -1,8 +1,8 @@
 ---
-title: "Project Title"
+title: "Rodeo Drive Aurora"
 date: 2020-05-12T12:14:34+06:00
 image: "images/portfolio/item5.jpg"
-categories: ["design","sketch"]
+categories: ["roofing"]
 description: "This is meta description."
 draft: false
 project_info:
