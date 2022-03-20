@@ -13,44 +13,27 @@ experience:
   title : "EXPERIENCE"
   experience_list:
     # experience item loop
-    - name : "Web Developer"
-      company : "Fiverr.com"
-      duration : "2016-2018"
-      content : "I work with HTML, CSS, and Javascript to create websites and web applications like Personal, Business, Blog, E-comerches etc."
+    - name : "Project Manager"
+      company : "ECO Roof and Solar"
+      duration : "Oct 2015 - 2017"
+      content : "Greater Denver Area"
       
     # experience item loop
-    - name : "Graphic Designer"
-      company : "Fiverr.com"
-      duration : "2015-2018"
-      content : "Graphic design is art with a purpose. I love illustration, so logo desing is my favorite work. But i can do many things with graphics."
+    - name : "Project Manager"
+      company : "Premier Roofing, Denver"
+      duration : "Aug 2012 - Oct 2015"
+      content : "Greater Denver Area"
       
-    # experience item loop
-    - name : "Database Manager"
-      company : "Polytechnic"
-      duration : "2014-2018"
-      content : "Database management is among the fundamental processes in the software field of computing. I know MS Access very well."
 
 ############################### Skill #################################
 skill:
   enable : true
-  title : "SKILL"
+  title : "CERTIFICATIONS"
   skill_list:
     # skill item loop
-    - name : "Web Development"
-      percentage : "98%"
+    - name : "HAAG Commercial Roof Certified"
+      percentage : "100%"
       
-    # skill item loop
-    - name : "Graphic Design"
-      percentage : "85%"
-      
-    # skill item loop
-    - name : "Database Management"
-      percentage : "90%"
-      
-    # skill item loop
-    - name : "Wordpress"
-      percentage : "70%"
-
 
 # custom style
 custom_class: "" 

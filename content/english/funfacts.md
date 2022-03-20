@@ -8,19 +8,19 @@ funfacts:
   count : "100"
   
 # funfacts item loop
-- name : "HAPPY CLIENT"
+- name : "HAPPY CLIENTS"
   image : "images/icons/happy.png"
   count : "200"
   
 # funfacts item loop
-- name : "FINISHED PROJECT"
+- name : "FINISHED PROJECTS"
   image : "images/icons/project.png"
-  count : "250"
+  count : "150"
   
 # funfacts item loop
 - name : "CUPS OF COFFEE"
   image : "images/icons/coffee.png"
-  count : "150"
+  count : "450"
 
 
 # custom style

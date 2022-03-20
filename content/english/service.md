@@ -2,29 +2,21 @@
 title : "SERVICES"
 service_list:
 # service item loop
-- name : "Web Development"
-  image : "images/icons/web-development.png"
+- name : "Roofing"
+  image : "images/icons/roof.png"
   
 # service item loop
-- name : "Graphic Design"
-  image : "images/icons/graphic-design.png"
+- name : "Siding"
+  image : "images/icons/siding.png"
   
 # service item loop
-- name : "Database Management"
-  image : "images/icons/dbms.png"
+- name : "Windows"
+  image : "images/icons/window.png"
   
 # service item loop
-- name : "Software Development"
-  image : "images/icons/software-development.png"
+- name : "Doors"
+  image : "images/icons/door.png"
   
-# service item loop
-- name : "Digital Marketing"
-  image : "images/icons/marketing.png"
-  
-# service item loop
-- name : "Mobile App Development"
-  image : "images/icons/mobile-app.png"
-
 
 
 # custom style
