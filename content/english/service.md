@@ -14,10 +14,8 @@ service_list:
   image : "images/icons/window.png"
   
 # service item loop
-- name : "Doors"
-  image : "images/icons/door.png"
-  
-
+- name : "Gutters"
+  image : "images/icons/gutter.png"
 
 # custom style
 custom_class: "" 

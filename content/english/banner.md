@@ -9,7 +9,7 @@ occupations:
 - "Roofing"
 - "Siding"
 - "Windows"
-- "Doors"
+- "Gutters"
 
 # slider background image loop
 slider_images:
@@ -20,7 +20,7 @@ slider_images:
 # button
 button:
   enable : true
-  label : "Get a Quote"
+  label : "Request a Visit"
   link : "#contact"
 
 

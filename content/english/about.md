@@ -7,32 +7,40 @@ button:
   label : "DOWNLOAD MY CV"
   link : "#"
 
-########################### Experience ##############################
-experience:
-  enable : true
-  title : "EXPERIENCE"
-  experience_list:
-    # experience item loop
-    - name : "Project Manager"
-      company : "ECO Roof and Solar"
-      duration : "Oct 2015 - 2017"
-      content : "Greater Denver Area"
-      
-    # experience item loop
-    - name : "Project Manager"
-      company : "Premier Roofing, Denver"
-      duration : "Aug 2012 - Oct 2015"
-      content : "Greater Denver Area"
-      
-
 ############################### Skill #################################
 skill:
   enable : true
-  title : "CERTIFICATIONS"
+  title : "EXPERIENCE"
   skill_list:
     # skill item loop
-    - name : "HAAG Commercial Roof Certified"
+    - name : "High Rise Condo Complexes"
       percentage : "100%"
+    - name : "Multi-Family Communities"
+      percentage : "100%"
+    - name : "Historical Properties"
+      percentage : "100%"
+    - name : "Manufacturer's Warranty Claims"
+      percentage : "100%"
+      
+
+########################### Experience ##############################
+experience:
+  enable : true
+  title : "CERTIFICATOINS"
+  experience_list:
+    # experience item loop
+    - name : "HAAG Certified Roof Inspector"
+      company : "Commercial Roofing Certified"
+#      duration : "Oct 2015 - 2017"
+#      content : "Greater Denver Area"
+      
+    - name : "Gaco Western"
+      company : "GacoFlex Silicone Roofing Level 1 QA"
+    # experience item loop
+    - name : "10 Years of Project Management Experience"
+#      company : "Premier Roofing, Denver"
+#      duration : "Aug 2012 - Oct 2015"
+#      content : "Greater Denver Area"
       
 
 # custom style
