@@ -6,7 +6,7 @@ theme = "somrat"
 paginate = "6"
 # post excerpt
 summaryLength = "10"
-# disable language
+#  disable language
 disableLanguages = [] # disable language from here
 # google analutics
 googleAnalytics = "" # example : UA-123-45
