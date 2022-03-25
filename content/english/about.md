@@ -21,6 +21,8 @@ skill:
       percentage : "100%"
     - name : "Manufacturer's Warranty Claims"
       percentage : "100%"
+    - name : "100's of Homes Across the Denver Area"
+      percentage : "100%"
       
 
 ########################### Experience ##############################
