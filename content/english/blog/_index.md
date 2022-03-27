@@ -1,6 +1,6 @@
 ---
-title: "Oh My Blog!"
-description: "This is meta description."
+title: "About the Projects"
+description: "Additional information on Gallery objects."
 draft: false
 
 

@@ -1,6 +1,6 @@
 ---
-title: "Portfolio"
-description: "This is meta description."
+title: "Gallery"
+description: "Gallery of project images."
 draft: false
 
 
