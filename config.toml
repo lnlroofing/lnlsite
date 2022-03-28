@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://lnlsite.pages.dev/"
+baseURL = "https://www.lnlroofing.com/"
 title = "LnL Roofing and Exteriors"
 theme = "somrat"
 # post pagination
