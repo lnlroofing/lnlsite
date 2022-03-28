@@ -51,10 +51,10 @@ custom_attributes: ""
 custom_css: ""
 ---
 <br>
-<H5>LnL Roofing and Exteriors believes good service is the foundation of all we do.  On time, knowledgeable, and trustworthy.</H5>
+<b>At LnL Roofing and Exteriors, we believe good service is at the foundation of all we do. Whether you’re looking to fix up your roofing, siding, windows, or gutters, let us guide you throughout the process. Are you ready to fix up your home, business, historical property, or multi-family community? Let’s schedule a visit.</b>
 <br>
-
+<br>
 Rod Hill has been a residential and commercial roofing professional in the Denver Metro Area for almost a decade. Rod specializes in multi-family roofing projects and assisting Homeowners Associations asses and plan for future roofing needs. On the commercial side, Rod is well versed in fluid applied, and single-ply roofing systems helping property owners navigate the nuances of Denver’s Green Roof Initiative. Rod enjoys the everyday interaction with his customers, and the thrill of solving complex roofing concerns with viable cost effective solutions.
-
+<br>
 When not on a roof, you can find Rod with his family enjoying all that Colorado has to offer. He is still on the search for a great slice of pizza like he was accustomed to growing up in the Midwest.
 <br><br><b>Call to schedule a visit: (303) 350-0068</b>
