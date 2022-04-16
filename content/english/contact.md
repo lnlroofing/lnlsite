@@ -1,7 +1,7 @@
 ---
 title : "REQUEST A VISIT"
 bg_image: "images/backgrounds/contact-us-bg.jpg"
-form_action: "https://www.itdaemon.us/LNLFormSubmit.php"
+form_action: "https://formspree.io/f/mvolbnez"
 name: "Name"
 email: "Email"
 message: "Message"
